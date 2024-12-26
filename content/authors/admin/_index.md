@@ -45,7 +45,6 @@ education:
   - area: B.S. in Computer Science
     institution: Peking University
     date_start: 2023-09-01
-    date_end: 2027-7-01
 
 ---
 
