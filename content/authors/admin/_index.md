@@ -47,16 +47,7 @@ education:
     date_start: 2023-09-01
     date_end: 2027-7-01
 
-
-# Skills
-# Add your own SVG icons to `assets/media/icons/`
-
-
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-
+---
 
 ## About Me
 
